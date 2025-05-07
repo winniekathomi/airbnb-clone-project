@@ -33,4 +33,14 @@ The goal of the UI/UX design is to create an intuitive, user-friendly experience
 
 ### Importance of a User-Friendly Design
 
-A user-friendly design is crucial in a booking system because it ensures users can easily find and book properties without confusion. A smooth, intuitive interface enhances user satisfaction and encourages repeat usage, improving the overall success of the platform. done
+A user-friendly design is crucial in a booking system because it ensures users can easily find and book properties without confusion. A smooth, intuitive interface enhances user satisfaction and encourages repeat usage, improving the overall success of the platform.
+
+## UI Component Patterns
+
+This section outlines reusable UI components used in the Airbnb clone, including:
+
+- **Header**: Logo, search bar, navigation menu
+- **Card**: Displays listings with images, pricing, and ratings
+- **Footer**: Site links and copyright
+- **Filter Bar**: For filtering search results
+- **Modal**: For login/signup and booking interactions
