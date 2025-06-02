@@ -1,6 +1,6 @@
 # airbnb-clone-project
 
-## 👥 Project Roles & Responsibilities
+## Project Roles and Responsibilities
 
 - **Project Manager** – Oversees timelines, coordinates teams, ensures delivery.
 - **Frontend Developers** – Build UI, ensure responsiveness, connect to APIs.
