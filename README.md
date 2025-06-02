@@ -1,15 +1,15 @@
 # airbnb-clone-project
 
-## Project Roles and Responsibilities
+## 👥 Project Roles & Responsibilities
 
-- **Project Manager**: Responsible for overseeing the project, managing deadlines, and ensuring the project stays on track.
-- **Frontend Developers**: In charge of implementing the UI/UX design and ensuring the website is responsive and user-friendly.
-- **Backend Developers**: Handle server-side functionality, databases, and API integrations.
-- **Designers**: Focus on the visual elements of the application, including the overall look and feel of the user interface.
-- **QA/Testers**: Test the product for bugs, usability issues, and ensure it meets the required standards.
-- **DevOps Engineers**: Manage deployment processes, server configurations, and ensure the app's scalability and stability.
-- **Product Owner**: Represents the business and user needs, ensuring the product aligns with the vision and goals.
-- **Scrum Master**: Facilitates the Agile process, helps resolve blockers, and ensures the team follows Agile practic
+- **Project Manager** – Oversees timelines, coordinates teams, ensures delivery.
+- **Frontend Developers** – Build UI, ensure responsiveness, connect to APIs.
+- **Backend Developers** – Manage server logic, APIs, and database integration.
+- **Designers** – Create layouts, mockups, and ensure a clean user experience.
+- **QA/Testers** – Test features, report bugs, ensure quality and usability.
+- **DevOps Engineers** – Handle deployment, CI/CD, and server infrastructure.
+- **Product Owner** – Defines goals, prioritizes tasks, ensures business value.
+- **Scrum Master** – Facilitates Agile workflow and resolves team blockers.
 
 ## UI/UX Design Planning
 
